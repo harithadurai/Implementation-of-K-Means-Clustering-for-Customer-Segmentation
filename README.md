@@ -90,6 +90,9 @@ print("\nK Means Clustering for Customer Segmentation completed successfully.")
 
 <img width="947" height="597" alt="image" src="https://github.com/user-attachments/assets/2ee2b7d7-7d68-4da4-b718-e3b7aaae5b79" />
 
+<img width="1028" height="738" alt="image" src="https://github.com/user-attachments/assets/2dd6c14a-c4a9-45dc-bd90-85759eb10599" />
+
+
 
 ## Result:
 Thus the program to implement the K Means Clustering for Customer Segmentation is written and verified using python programming.
